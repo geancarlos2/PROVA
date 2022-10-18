@@ -19,4 +19,6 @@
 
    7- O que e branch?
    A RAMIFICACAO DO REPOSITORIO.
-  
+   
+   8-O que e pull request?
+    SOLICITACAO DE ALTERACAO 
