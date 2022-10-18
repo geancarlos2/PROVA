@@ -15,9 +15,11 @@
   JUNTAR DUAS BRANCH
 
   5-O que e pull?
+  
    PUXA AS ATUALIZACAO DO REPOSITORIO REMOTO PARA O REPOSITORIO LOCAL.
 
    7- O que e branch?
+   
    A RAMIFICACAO DO REPOSITORIO.
    
    8-O que e pull request?
