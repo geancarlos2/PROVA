@@ -23,9 +23,11 @@
    A RAMIFICACAO DO REPOSITORIO.
    
    8-O que e pull request?
+   
     SOLICITACAO DE ALTERACAO 
 
    9- O que e fork?
+   
    E A COPIA DO REPOSITORIO DE TERCEIROS
 
    
