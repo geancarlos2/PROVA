@@ -28,4 +28,5 @@
    9- O que e fork?
    E A COPIA DO REPOSITORIO DE TERCEIROS
 
-   
+   10-O que e um VCS?
+  SOFTWARE DE CONTROLE DIVERSAO
